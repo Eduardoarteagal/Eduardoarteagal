@@ -34,7 +34,13 @@
       Inglés: B2</p>
     </p>
 <!--Intro end-->
-
+<!--Contact Links--> 
+<p> Puedes encontrarme en: 
+  <ul> 
+    <li><a href="https://www.linkedin.com/in/joel-arteaga/">LinkedIn</a></li> 
+    <li><a href="https://cv-joel-arteaga.vercel.app/">Mi página web</a></li> 
+  </ul>   
+</p>
 
 
 <!--- stats & Trophy (start) -->
@@ -43,38 +49,20 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Eduardoarteagal&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardoarteagal&theme=dark&hide_border=false" /> 
 </td>
-
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Eduardoarteagal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
+Last Edited on: 10/2/2025
 
