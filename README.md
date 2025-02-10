@@ -9,13 +9,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -25,19 +18,21 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+<p>
+      Estoy aprendiendo a programar en Flutter y Kotlin.
+      Estoy interesado en la programación de inteligencia artificial.
+      Mi stack de habilidades es:
+      <ul>
+        <li><strong>Lenguajes:</strong> C#, Java, Python, JavaScript, TypeScript, PHP, SQL, R</li>
+        <li><strong>Frameworks:</strong> React, Angular, Node.js, Express.js</li>
+        <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
+        <li><strong>Backend:</strong> REST API, WebSocket, GraphQL</li>
+        <li><strong>Bases de Datos:</strong> MySQL, PostgreSQL, MongoDB</li>
+        </ul>
+      <p>Lenguajes:<br>
+      Español: Nativo<br>
+      Inglés: B2</p>
+    </p>
 <!--Intro end-->
 
 
